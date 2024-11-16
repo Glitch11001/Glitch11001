@@ -4,7 +4,7 @@
 > **The Matrix has you.**<br>
 > **Follow the white rabbit.”**<br>
 
-<img src="https://raw.githubusercontent.com/Glitch11001/Glitch11001/refs/heads/main/img/cat.gif" alt="binary cat walking">
+<img src="https://raw.githubusercontent.com/Glitch11001/Glitch11001/refs/heads/main/img/rabbit.gif" alt="ascii rabbit jumping around">
 
 ## 👨‍💻 About Me
 
