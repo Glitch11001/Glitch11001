@@ -1,8 +1,10 @@
 # Glitch11001
 
-> **“Wake up, Neo….**<br>
-> **The Matrix has you.**<br>
-> **Follow the white rabbit.”**<br>
+<div style="font-family: 'Courier New', Courier, monospace; color: green;">
+    > **“Wake up, Neo….**<br>
+    > **The Matrix has you.**<br>
+    > **Follow the white rabbit.”**<br>
+</div>
 
 ## 👨‍💻 About Me
 
