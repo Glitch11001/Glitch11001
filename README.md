@@ -1,16 +1,29 @@
-## Hi there 👋
+# Glitch11001
 
-<!--
-**Glitch11001/Glitch11001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **“Wake up, Neo….**<br>
+> **The Matrix has you.**<br>
+> **Follow the white rabbit.”**<br>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Completely passionate about knowledge, I maintain an uncontrollable desire to learn more and more about absolutely any subject. I love technological advancement and believe that the 'impossible' is just a limiting virus in the human mind.
+
+Instead of accepting that I can't achieve something, I prefer to ask: how can I achieve this?
+
+With this mindset, I believe humanity can overcome any limitation. Keep this in mind, after all, the mind is the only reality.
+
+## 🎯 Interests
+
+- Business in general;
+- Making money;
+- Generating wealth and jobs;
+- Programming useful and/or fun things;
+- Information security;
+- Open Source technologies;
+- Everything that makes the world a better place.
+
+## 🧠 Learning
+
+- 💻 Web development;
+- ⚔️ Offensive security;
+- 💵 Investments.
